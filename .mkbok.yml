@@ -1,0 +1,9 @@
+---
+  name: 3dprinting-linux 
+  build: epub,pdf,html
+  lang: zh
+  license: ccbyncnd30
+  config: latex/config.yml
+  template: latex/template.tex
+  preface-files: preface/*.markdown
+  chapter-files: chapters/*.markdown
